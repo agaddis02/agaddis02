@@ -3,8 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Fintech can erase the horrible capitalistic divide and i'm betting on it.\
-🎓 &nbsp;I'm currently pursing a M.S in Data Engineering from UNT, I currently hold - B.B.A in Analytics, A.A.S in Software Development\
-🌱 &nbsp;I'm taking the time to delve deep into Scala, Graph Databases, Parallelization\
+🎓 &nbsp; I currently hold a - M.B.A in Strategic Management, B.B.A in Analytics, A.A.S in Software Development\
 ✍️ &nbsp;In my free time I am a personal finance nut, also mentor for a FRC Robotics team.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at agaddis02@live.com! I'll try to respond as soon as I can.\
